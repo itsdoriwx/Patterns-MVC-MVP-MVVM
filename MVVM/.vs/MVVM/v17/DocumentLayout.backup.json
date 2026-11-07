@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263DE2F1-DB6C-4903-9241-7F331C9F4B30}|MVVM\\MVVM.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvvm\\mvvm\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263DE2F1-DB6C-4903-9241-7F331C9F4B30}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263DE2F1-DB6C-4903-9241-7F331C9F4B30}|MVVM\\MVVM.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvvm\\mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263DE2F1-DB6C-4903-9241-7F331C9F4B30}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263DE2F1-DB6C-4903-9241-7F331C9F4B30}|MVVM\\MVVM.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvvm\\mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{263DE2F1-DB6C-4903-9241-7F331C9F4B30}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263DE2F1-DB6C-4903-9241-7F331C9F4B30}|MVVM\\MVVM.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvvm\\mvvm\\livingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263DE2F1-DB6C-4903-9241-7F331C9F4B30}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\livingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainVM.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVVM\\MVVM\\MainVM.cs",
+              "RelativeDocumentMoniker": "MVVM\\MainVM.cs",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVVM\\MVVM\\MainVM.cs",
+              "RelativeToolTip": "MVVM\\MainVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:17:43.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivingCost.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVVM\\MVVM\\LivingCost.cs",
+              "RelativeDocumentMoniker": "MVVM\\LivingCost.cs",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVVM\\MVVM\\LivingCost.cs",
+              "RelativeToolTip": "MVVM\\LivingCost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:17:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVVM\\MVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVVM\\MVVM\\MainWindow.xaml",
+              "RelativeToolTip": "MVVM\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T22:17:07.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVVM\\MVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVVM\\MVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MVVM\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:17:04.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvc\\mvc\\livingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|solutionrelative:mvc\\livingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvc\\mvc\\controllerlivingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|solutionrelative:mvc\\controllerlivingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvc\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvc\\mvc\\view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|solutionrelative:mvc\\view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvc\\mvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|solutionrelative:mvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvc\\mvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|solutionrelative:mvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|d:\\\u0442\u0440\u0435\u0442\u0456\u0439 \u043A\u0443\u0440\u0441\\\u0456\u0441\\mvc\\mvc\\view.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8A057B9F-910D-4FBA-A90D-98F67562A76F}|MVC\\MVC.csproj|solutionrelative:mvc\\view.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\View.cs",
+              "RelativeDocumentMoniker": "MVC\\View.cs",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\View.cs",
+              "RelativeToolTip": "MVC\\View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T20:28:07.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\View.cs",
+              "RelativeDocumentMoniker": "MVC\\View.cs",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\View.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MVC\\View.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T20:16:26.777Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.Designer.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\View.Designer.cs",
+              "RelativeDocumentMoniker": "MVC\\View.Designer.cs",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\View.Designer.cs",
+              "RelativeToolTip": "MVC\\View.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T20:24:35.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T20:24:32.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControllerLivingCost.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\ControllerLivingCost.cs",
+              "RelativeDocumentMoniker": "MVC\\ControllerLivingCost.cs",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\ControllerLivingCost.cs",
+              "RelativeToolTip": "MVC\\ControllerLivingCost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T20:18:46.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivingCost.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\LivingCost.cs",
+              "RelativeDocumentMoniker": "MVC\\LivingCost.cs",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\LivingCost.cs",
+              "RelativeToolTip": "MVC\\LivingCost.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA2wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T20:18:29.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View.resx",
+              "DocumentMoniker": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\View.resx",
+              "RelativeDocumentMoniker": "MVC\\View.resx",
+              "ToolTip": "D:\\\u0422\u0420\u0415\u0422\u0406\u0419 \u041A\u0423\u0420\u0421\\\u0406\u0421\\MVC\\MVC\\View.resx",
+              "RelativeToolTip": "MVC\\View.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-06T20:36:47.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
